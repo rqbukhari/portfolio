@@ -47,8 +47,8 @@ $(document).ready(function() {
    #Progress Bar For Skills Page
    ========================================================================== */
    
-		progressBar(99, $('#progressBar'));
-		progressBar(80, $('#progressBar2'));
+		progressBar(90, $('#progressBar'));
+		progressBar(90, $('#progressBar2'));
 		progressBar(60, $('#progressBar3'));
 		
 /* ==========================================================================
